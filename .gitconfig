@@ -1,0 +1,5 @@
+[user]
+	name = Jim Steffes
+	email = jimsteffes@outlook.com
+[credential]
+	helper = cache
