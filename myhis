@@ -1,0 +1,157 @@
+    1  l
+    2  ls
+    3  uname -a
+    4  vi
+    5  nano
+    6  l
+    7  ls
+    8  cat docker-entrypoint.
+    9  uname -a
+   10  apt
+   11  apt list
+   12  ed
+   13  apt --version
+   14  whoami
+   15  apt-get -y install apt-file
+   16  apt-get -y install vi
+   17  apt-get update
+   18  apt-get -y install nvim
+   19  apt-get -y install neovim
+   20  vnim
+   21  nvim
+   22  uname -a
+   23  ls
+   24  nvim docker-entrypoint.
+   25  nvim docker-entrypoint.sh 
+   26  sudo apt install busybox
+   27  apt install busybox
+   28  ls
+   29  ls -a
+   30  ls -a
+   31  wget
+   32  cd bin
+   33  ls
+   34  busybox
+   35  busybox | nvim -
+   36  cd
+   37  apt install wget
+   38  wget
+   39  source
+   40  wget 'https://raw.githubusercontent.com/wither7007/7490/refs/heads/main/alias'
+   41  ls
+   42  source alias
+   43  als
+   44  md .config
+   45  wget https://raw.githubusercontent.com/wither7007/7490/refs/heads/main/.config/nvim/init.vim
+   46  l
+   47  ls
+   48  ls
+   49  ls
+   50  cd
+   51  ls
+   52  nvim
+   53  cd
+   54  cd $home
+   55  ls
+   56  nvim -u init.vim 
+   57  nvim -u init.vim 
+   58  ls -a
+   59  nvim -u init.vim .bashrc 
+   60  git
+   61  uname
+   62  uname -a
+   63  history
+   64  history | nvim -
+   65  v
+   66  apt install git-all
+   67  git
+   68   git config --list --show-origin
+   69   git config --list --show-origin
+   70  git config --list --show-origin
+   71  git config --global user.name "Jim Steffes"
+   72  git config --global user.email jimsteffes@outlook.com
+   73  git config --list --show-origin
+   74  git init
+   75  gst
+   76  git init
+   77  h
+   78  ls
+   79  l
+   80  ls
+   81  ls -a
+   82  gst
+   83  git add .
+   84  gst
+   85  git commit -m 'start'
+   86  gst
+   87  git remote add origin https://github.com/wither7007/nginxD
+   88  git remote -v
+   89  gst
+   90  git push
+   91  git push --set-upstream origin master
+   92  git config --global credential.helper cache
+   93  git push --set-upstream origin master
+   94  his
+   95  h
+   96  h
+   97  vinit
+   98  git push --set-upstream origin master
+   99  git remote add origin https://github.com/wither7007/nginxD.git
+  100  git remote add origin https://github.com/wither7007/nginxD.git
+  101  git push --set-upstream origin master
+  102  his
+  103  h
+  104  git remote add origin git@github.com:wither7007/nginxD.git
+  105  rm -rf .git
+  106  git init
+  107  git add .
+  108  gst
+  109  git commit -m "init"
+  110  git remote add origin git@github.com:wither7007/nginxD.git
+  111  git push --set-upstream origin master
+  112  git remote -v
+  113  git remote -v
+  114  git push
+  115  git push --set-upstream origin master
+  116  gh
+  117  l
+  118  ls
+  119  als
+  120  ls -a
+  121  rm -rf .git
+  122  l
+  123  ls
+  124  h
+  125  git init
+  126  git add README.md
+  127  gst
+  128  l
+  129  git add .
+  130  git commit -m 'first commit'
+  131  git branch -m main
+  132  git remote add origin git@github.com:wither7007/dockNginx.git
+  133  git push -u origin main
+  134  ssh-keygen -t ed25519 -C
+  135  ssh-keygen -t ed25519 -C "jimsteffes@outlook.com"
+  136  eval "$(ssh-agent -s)"
+  137  ssh-add ~/.ssh/id_ed25519
+  138  cat ~/.ssh/id_ed25519.pub
+  139  nvim ~/.ssh/id_ed25519.pub
+  140  h
+  141  git remote -v
+  142  h3
+  143  gst
+  144  git add .
+  145  git commit -m "second"
+  146  git push -u origin 
+  147   git push --set-upstream origin main
+  148  ls -ar
+  149  rm -rf .get
+  150  git init
+  151  ps -ar
+  152  ls -ar
+  153  v .gitignore
+  154  l
+  155  ls
+  156  his | nvim -
+  157  history | nvim -
